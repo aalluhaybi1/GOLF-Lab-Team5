@@ -2,6 +2,6 @@
 
 
 # Team Member:
-  >Ayman Alluhaybi
->Saleh Basalim
->Mohammed Alrasheidi
+  >Ayman Alluhaybi ,
+>Saleh Basalim ,
+>Mohammed Alrasheidi.
